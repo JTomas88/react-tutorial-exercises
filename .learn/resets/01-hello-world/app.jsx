@@ -8,5 +8,5 @@ let output = <span>James is 12 years old</span>;
 // WHERE: A DOM element that will contain the entire react generated html
 const myDiv = document.querySelector("#myDiv");
 
-//what  //where
+                //what  //where
 ReactDOM.render(output, myDiv);

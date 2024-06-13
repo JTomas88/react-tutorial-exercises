@@ -20,7 +20,7 @@ let content = (
 			<h5 className="card-title">{data.cardTitle}</h5>
 			<p className="card-text">{data.cardDescription}</p>
 			<a href={data.button.url} className="btn btn-primary">
-				{data.button.label}
+				{data.button.label}{""}
 			</a>
 		</div>
 	</div>
